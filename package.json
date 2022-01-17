@@ -1,0 +1,26 @@
+{
+	"name": "@foxglovetechno/simple-redux",
+	"version": "1.0.0",
+	"description": "It is simple way to implement react redux and education purpose only.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/foxglovetechno/simple-redux.git"
+	},
+	"keywords": [
+		"redux",
+		"react-redux"
+	],
+	"dependencies": {
+		"react": "17.0.2"
+	},
+	"author": "foxglovetechno",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/foxglovetechno/simple-redux/issues"
+	},
+	"homepage": "https://github.com/foxglovetechno/simple-redux#readme"
+}
