@@ -6,10 +6,6 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+ssh://git@github.com/foxglovetechno/simple-redux.git"
-	},
 	"keywords": [
 		"redux",
 		"react-redux"
@@ -19,6 +15,13 @@
 	},
 	"author": "foxglovetechno",
 	"license": "ISC",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/foxglovetechno/simple-redux.git"
+	},
 	"bugs": {
 		"url": "https://github.com/foxglovetechno/simple-redux/issues"
 	},
